@@ -1,0 +1,11 @@
+# Ignore all database files
+*.db
+
+# Ignore all log files
+*.log
+
+# Ignore target folder
+target
+
+# Ignore bin folder
+bin
